@@ -1,0 +1,5 @@
+CREATE TABLE melon(
+	no INT NOT NULL,
+	title VARCHAR(100) NOT NULL,
+	singer VARCHAR(100) NOT NULL
+);
